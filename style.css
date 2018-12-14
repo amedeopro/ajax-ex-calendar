@@ -3,3 +3,23 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.container{
+  text-align: center;
+  width: 70%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+ul{
+  list-style: none;
+  padding: 20px;
+}
+
+ul li{
+  font-size: 20px;
+}
+
+.templates{
+  display: none;
+}
